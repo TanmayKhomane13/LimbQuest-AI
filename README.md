@@ -19,7 +19,7 @@
 
 ## 🧠 Project Overview
 
-**NeuroShooter** transforms traditional stroke rehabilitation by turning a simple top‑down shooter game into a **quantitative motor assessment tool**.  
+**LimbQuest AI** transforms traditional stroke rehabilitation by turning a simple top‑down shooter game into a **quantitative motor assessment tool**.  
 During a 5‑minute WebGL session, the game automatically records:
 
 - 🎯 **Accuracy** → hand precision  
